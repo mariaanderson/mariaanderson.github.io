@@ -1,0 +1,187 @@
+html {
+height: 100%;
+width: 100%;
+}
+body{
+background-image:url(images/kanva.jpg);
+background-repeat: repeat;
+height: 100%;
+}
+.container-fluid{
+width: 100%;
+}
+.name{
+font-family: Times, Times New Roman, serif;
+font-style:italic;
+font-size: 70px;
+color: aliceblue;
+text-shadow: 1px 1px 0 lightblue, -1px -1px 0 lightblue;
+position: relative;
+text-align: center;
+}
+.klubok{
+position: relative;
+margin-top: 10%;
+}
+.pugo{
+position: relative;
+right: 1%;
+top: 1%;  
+}
+.name1{
+text-align: center;
+position: relative;
+top: 15%;
+color: aliceblue;
+font-style: oblique;
+}
+.row{
+font-size: 30px;
+font-family: Times, Times New Roman, serif;
+font-style:italic;
+color: aliceblue;
+text-shadow: 1px 1px 0 lightblue, -1px -1px 0 lightblue;
+min-width: 100%;
+}
+.kruj{
+background:url(images/k1.png);
+height: 67px;
+background-repeat: repeat-x;
+min-width: 100%;
+}
+a.logotip{
+color: indigo;
+text-decoration: none;
+text-shadow: 1px 0 1px lightblue, 0 1px 1px lightblue, -1px 0 1px lightblue, 0 -1px 1px lightblue;
+}
+a.logotip:hover{
+color: white;
+text-decoration: none;
+text-shadow: 1px 0 1px lightblue, 0 1px 1px lightblue, -1px 0 1px lightblue, 0 -1px 1px lightblue;
+}
+a.logotip:visited{
+text-decoration: none;
+}
+a.logotip:any-link{
+text-decoration: none;
+}
+.phone{
+font-size: 20px;
+position: relative;
+margin-top: 2%;
+color:forestgreen;
+text-shadow: 1px 0 1px palegreen, 0 1px 1px palegreen, -1px 0 1px palegreen, 0 -1px 1px palegreen;
+text-align: center;
+}
+.email{
+font-size: 20px;
+position: relative;
+margin-top: 2%;
+color:deepskyblue;
+text-shadow: 1px 0 1px aliceblue, 0 1px 1px aliceblue, -1px 0 1px aliceblue, 0 -1px 1px aliceblue;
+text-align: center;
+}
+.time{
+font-size: 20px;
+position: relative;
+margin-top: 2%;
+color: maroon;
+text-shadow: 1px 0 1px burlywood, 0 1px 1px burlywood, -1px 0 1px burlywood, 0 -1px 1px burlywood;
+text-align: center;
+}
+.z1{
+color: darkblue;
+text-shadow: 1px 0 1px lightblue, 0 1px 1px lightblue, -1px 0 1px lightblue, 0 -1px 1px lightblue;
+font-style: italic;
+text-decoration: underline;
+font-family: fantasy;
+font-size: 60px;
+text-align: center;
+}
+.spis{
+text-align: left;
+font-style: oblique;
+font-size: 20px;
+margin: 0;
+}
+a.pass{
+color:darkgreen;
+font-style: oblique;
+text-decoration: none;
+}
+a.pass:hover{
+color: lawngreen;
+text-decoration: none;
+}
+a.pass:visited{
+color: darkgreen;
+text-decoration: none;
+}
+a.pass:any-link{
+text-decoration: none;
+}
+.footer{;
+position: relative;
+border-color: skyblue;
+border-top-style: dashed;
+border-top-width: 3px;
+background: url(images/tkan.jpg);
+bottom: 0;
+text-align: center;
+min-width: 100%;
+color:cyan;
+font-style: oblique;
+}
+html, body {
+height: 100%;
+}
+.content {
+height: 100%;
+min-width: 100%;
+display: table;
+}
+.main {
+height: 100%;
+display: table-row;
+}
+.nazv{
+margin-top: 3px;
+font-style: italic;
+font-size: 20px;
+text-decoration: none;
+}
+.kat{
+font-size: 15px; 
+color:grey; 
+font-style:oblique;
+}
+.site{
+font-size: 20px;
+position: relative;
+margin-top: 2%;
+color: blue;
+text-shadow: 1px 0 1px aliceblue, 0 1px 1px aliceblue, -1px 0 1px aliceblue, 0 -1px 1px aliceblue;
+text-align: center;
+}
+.adress{
+font-size: 20px;
+position: relative;
+margin-top: 2%;
+color: red;
+text-shadow: 1px 0 1px darkred, 0 1px 1px darkred, -1px 0 1px darkred, 0 -1px 1px darkred;
+text-align: center;
+}
+a.naim{
+color: darkblue;
+text-decoration: none;
+}
+a.naim:hover{
+color: dodgerblue;
+text-decoration: none;
+}
+a.naim:visited{
+text-decoration: none;
+}
+a.naim:any-link{
+text-decoration: none;
+}
